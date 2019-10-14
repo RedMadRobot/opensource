@@ -18,14 +18,24 @@
     "name": "CI/CD plugins",
     "repositories": [
       {
-        "name": "GoldenKey",
-        "repository": "golden-key",
-        "description": "Security library"
+        "name": "danger-jira_issue_links",
+        "repository": "danger-jira_issue_links",
+        "description": "Danger plugin"
       },
       {
-        "name": "Catbird",
-        "repository": "catbird",
-        "description": "Mock server for UI tests"
+        "name": "fastlane-plugin-jira_release_notes",
+        "repository": "fastlane-plugin-jira_release_notes",
+        "description": "Fastlane Plugin for Jira Release Notes"
+      },
+      {
+        "name": "fastlane-plugin-gmail",
+        "repository": "fastlane-plugin-gmail",
+        "description": "Fastlane Plugin for Gmail"
+      },
+      {
+        "name": "fastlane-plugin-imessage",
+        "repository": "fastlane-plugin-imessage",
+        "description": "Fastlane Plugin for iMessage"
       }
     ]
   }
