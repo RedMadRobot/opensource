@@ -1,0 +1,32 @@
+[
+  {
+    "name": "iOS Libraries",
+    "repositories": [
+      {
+        "name": "GoldenKey",
+        "repository": "golden-key",
+        "description": "Security library"
+      },
+      {
+        "name": "Catbird",
+        "repository": "catbird",
+        "description": "Mock server for UI tests"
+      }
+    ]
+  },
+  {
+    "name": "CI/CD plugins",
+    "repositories": [
+      {
+        "name": "GoldenKey",
+        "repository": "golden-key",
+        "description": "Security library"
+      },
+      {
+        "name": "Catbird",
+        "repository": "catbird",
+        "description": "Mock server for UI tests"
+      }
+    ]
+  }
+]

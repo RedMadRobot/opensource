@@ -1,0 +1,3 @@
+<a href="https://github.com/redmadrobot/{{ include.repository }}/stargazers">
+  <img src="https://img.shields.io/github/stars/redmadrobot/{{ include.repository }}?style=social" alt="stars">
+</a>
