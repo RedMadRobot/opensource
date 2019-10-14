@@ -23,14 +23,24 @@
     "name": "iOS Libraries",
     "repositories": [
       {
+        "name": "Catbird",
+        "repository": "catbird",
+        "description": "Mock server for UI tests"
+      },
+      {
         "name": "GoldenKey",
         "repository": "golden-key",
         "description": "Security library"
       },
       {
-        "name": "Catbird",
-        "repository": "catbird",
-        "description": "Mock server for UI tests"
+        "name": "Input Mask",
+        "repository": "input-mask-ios",
+        "description": "User input masking library repo"
+      },
+      {
+        "name": "FloatingTextInput",
+        "repository": "floating-text-input",
+        "description": "Floating TextField and TextView"
       }
     ]
   },
