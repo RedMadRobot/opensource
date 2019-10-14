@@ -1,5 +1,25 @@
 [
   {
+    "name": "Android Libraries",
+    "repositories": [
+      {
+        "name": "AcronymAvatar",
+        "repository": "acronym-avatar",
+        "description": "Library to show avatars with acronyms"
+      },
+      {
+        "name": "Input Mask",
+        "repository": "input-mask-android",
+        "description": "User input masking library repo"
+      },
+      {
+        "name": "State Delegator",
+        "repository": "state-delegator",
+        "description": "Collection of classes that helps you to manage a screen state"
+      }
+    ]
+  },
+  {
     "name": "iOS Libraries",
     "repositories": [
       {
