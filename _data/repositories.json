@@ -16,6 +16,11 @@
         "name": "State Delegator",
         "repository": "state-delegator",
         "description": "Collection of classes that helps you to manage a screen state"
+      },
+      {
+        "name": "Flipper",
+        "repository": "flipper",
+        "description": "Flipper is a simple and useful tool to deal with feature toggles"
       }
     ]
   },
