@@ -10,7 +10,11 @@ permalink: /
 <table>
   {% for repository in group.repositories %}
     <tr>
-      <td>{{ repository.name }}</td>
+      <td>
+        <a href="https://github.com/redmadrobot/{{ repository.repository }}">
+          {{ repository.name }}
+        </a>
+      </td>
       <td>{% include github_stars repository=repository.repository %}</td>
       <td>{% include github_issues repository=repository.repository %}</td>
       <td>{{ repository.description }}</td>
