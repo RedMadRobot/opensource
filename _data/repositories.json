@@ -38,6 +38,11 @@
         "description": "Security library"
       },
       {
+        "name": "DAO",
+        "repository": "DAO",
+        "description": "An implementation of DAO pattern for CoreData and Realm."
+      },
+      {
         "name": "Input Mask",
         "repository": "input-mask-ios",
         "description": "User input masking library repo"
