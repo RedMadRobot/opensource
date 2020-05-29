@@ -78,5 +78,15 @@
         "description": "Fastlane Plugin for iMessage"
       }
     ]
+  },
+  {
+    "name": "Developer tools",
+    "repositories": [
+      {
+        "name": "figma-export",
+        "repository": "figma-export",
+        "description": "Command line utility to export colors, icons and images from Figma to Xcode / Android Studio project"
+      }
+    ]
   }
 ]
