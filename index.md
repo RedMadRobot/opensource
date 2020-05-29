@@ -15,8 +15,8 @@ permalink: /
           {{ repository.name }}
         </a>
       </td>
-      <td>{% include github_stars repository=repository.repository %}</td>
-      <td>{% include github_issues repository=repository.repository %}</td>
+      <td style="min-width:100px">{% include github_stars repository=repository.repository %}</td>
+      <td style="min-width:100px">{% include github_issues repository=repository.repository %}</td>
       <td>{{ repository.description }}</td>
     </tr>
   {% endfor %}
