@@ -21,6 +21,11 @@
         "name": "Flipper",
         "repository": "flipper",
         "description": "Flipper is a simple and useful tool to deal with feature toggles"
+      },
+      {
+        "name": "PINkman",
+        "repository": "PINkman",
+        "description": "PINkman is a library to help implementing an authentication by a PIN code in a secure manner."
       }
     ]
   },
