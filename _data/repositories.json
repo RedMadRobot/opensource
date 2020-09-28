@@ -33,6 +33,11 @@
     "name": "iOS Libraries",
     "repositories": [
       {
+        "name": "Apexy",
+        "repository": "apexy-ios",
+        "description": "The library for organizing a network layer in your awesome project"
+      },
+      {
         "name": "Catbird",
         "repository": "catbird",
         "description": "Mock server for UI tests"
