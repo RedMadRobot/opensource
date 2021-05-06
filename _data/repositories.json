@@ -26,6 +26,26 @@
         "name": "PINkman",
         "repository": "PINkman",
         "description": "PINkman is a library to help implementing an authentication by a PIN code in a secure manner."
+      },
+      {
+        "name": "redmadrobot-android-ktx",
+        "repository": "redmadrobot-android-ktx",
+        "description": "Missing Android KTX extensions in addition to AndroidX KTX"
+      },
+      {
+        "name": "MapMemory",
+        "repository": "mapmemory",
+        "description": "Simple in-memory cache conception built on Map"
+      },
+      {
+        "name": "ItemsAdapter",
+        "repository": "itemsadapter",
+        "description": "The simple adapter to render static data in RecyclerView"
+      },
+      {
+        "name": "Gradle Infrastructure",
+        "repository": "gradle-infrastructure",
+        "description": "Set of small plugins to reduce boilerplate in Gradle build scripts"
       }
     ]
   },
